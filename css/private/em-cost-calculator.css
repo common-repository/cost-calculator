@@ -1,0 +1,20 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+
+
+
+
+.pagination_wrapper a,.upsomming_features a{text-decoration:none}.customers_list_heading{text-align:center}.customer_list_heading{text-align:center;padding:40px 0;font-size:18px}.customer_list_wrapper{padding-right:30px;padding-left:15px}.customer_list_wrapper table{width:100%;border-collapse:collapse;border:5px solid #fff;border-radius:10px;overflow:hidden;box-shadow:0 0 40px 0 rgba(0,0,0,.15);-moz-box-shadow:0 0 40px 0 rgba(0,0,0,.15);-webkit-box-shadow:0 0 40px 0 rgba(0,0,0,.15);-o-box-shadow:0 0 40px 0 rgba(0,0,0,.15);-ms-box-shadow:0 0 40px 0 rgba(0,0,0,.15)}.customer_list_wrapper tr:nth-of-type(odd){background:#fff}.customer_list_wrapper th{background:#333;color:#fff;font-weight:700}.customer_list_wrapper td,.customer_list_wrapper th{padding:7px;border:1px solid #f1f1f1;text-align:left;width:15%}@media only screen and (max-width:760px),(min-device-width:768px) and (max-device-width:1024px){table,tbody,td,th,thead,tr{display:block}.customer_list_wrapper thead tr{position:absolute;top:-9999px;left:-9999px}.customer_list_wrapper tr{border:1px solid #ccc}.customer_list_wrapper td{border:none;border-bottom:1px solid #eee;position:relative;padding-left:50%}.customer_list_wrapper td:before{position:absolute;top:6px;left:6px;width:45%;padding-right:10px;white-space:nowrap}.customer_list_wrapper td:nth-of-type(1):before{content:"Order ID"}.customer_list_wrapper td:nth-of-type(2):before{content:"Order Date"}.customer_list_wrapper td:nth-of-type(3):before{content:"Customer Name"}.customer_list_wrapper td:nth-of-type(4):before{content:"Customer Email"}.customer_list_wrapper td:nth-of-type(5):before{content:"Total Cost"}.customer_list_wrapper td:nth-of-type(6):before{content:"Service 1"}.customer_list_wrapper td:nth-of-type(7):before{content:"Service 2"}.customer_list_wrapper td:nth-of-type(8):before{content:"Service 3"}.customer_list_wrapper td:nth-of-type(9):before{content:"Service 4"}.customer_list_wrapper td:nth-of-type(10):before{content:"Service 5"}.customer_list_wrapper td:nth-of-type(11):before{content:"Service 6"}}@media only screen and (min-device-width :320px) and (max-device-width :480px){.customer_list_wrapper{padding:0;margin:0;width:320px}.customer_list_heading{font-size:12px}.customer_list_wrapper td,.customer_list_wrapper th{padding:7px;border:1px solid #f1f1f1;text-align:left;width:100%}}@media only screen and (min-device-width:768px) and (max-device-width:1024px){.customer_list_wrapper{width:495px}.customer_list_wrapper td,.customer_list_wrapper th{padding:7px;border:1px solid #f1f1f1;text-align:left;width:100%}}.pagination_wrapper{text-align:center;margin-top:60px;transition:all .5s}.page-numbers{padding:10px 15px;margin:0 10px;border:2px solid #fff;color:#36304a;background-color:#fff;border-radius:25px;font-size:16px;box-shadow:0 5px 35px 5px rgba(0,0,0,.11)}.pagination_wrapper .current{border:6px solid #c9bee4;background-color:#7654c954;font-size:25px;padding:8px 15px;border-radius:50%;box-shadow:0 11px 43px 11px rgba(0,0,0,.16);color:#fff}.pagination_wrapper .page-numbers:hover{background-color:#f1f1f1;cursor:pointer;transition:all .4s;color:#000}.order_label{width:20%;float:left}.order_label_wrapper{width:100%;margin-bottom:20px;float:left}.order_page_wrapper input[type=text],.order_page_wrapper input[type=email],.order_page_wrapper textarea{width:350px}.service1_dashboard_form_option{margin-left:25px}.upsomming_features{text-align:center}.upsomming_features h2{font-size:25px}.heading_note{font-weight:600}.service_admin_insert_form_wrapper{font-size:16px;font-weight:600;margin-bottom:20px}.bold_pro,.bold_text{font-weight:700}.price_field{float:left;margin:5px 0;padding-right:5px}.price_field_input{width:84%;margin:5px 0}.bold_pro{color:#03b303}
+
+
+#adminmenu #toplevel_page_em_add_data .menu-icon-generic div.wp-menu-image:before {
+    font-family: FontAwesome !important;
+    content: '\f1ec' !important;
+}
+.emcc_save_btn input {
+    background-color: #5555e9;
+    color: #fff;
+    width: 100px;
+    height: 40px;
+    border: 0;
+    cursor: pointer;
+}
